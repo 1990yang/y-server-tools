@@ -1,0 +1,22 @@
+{
+  "name": "y-server-tools",
+  "version": "0.0.1",
+  "description": "yodo1 server tools",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yodo1-backend/y-server-tools.git"
+  },
+  "keywords": [
+    "yodo1"
+  ],
+  "author": "yanghui <yanghui@yodo1.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/Yodo1-backend/y-server-tools",
+  "dependencies": {
+    "basen": "0.0.1"
+  }
+}
