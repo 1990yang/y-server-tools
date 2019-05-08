@@ -1,6 +1,6 @@
 {
   "name": "y-server-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "yodo1 server tools",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,5 @@
   "author": "yanghui <yanghui@yodo1.com>",
   "license": "ISC",
   "homepage": "https://github.com/Yodo1-backend/y-server-tools",
-  "dependencies": {
-    "basen": "0.0.1"
-  }
+  "dependencies": {}
 }
