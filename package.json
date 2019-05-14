@@ -1,6 +1,6 @@
 {
   "name": "y-server-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "yodo1 server tools",
   "main": "index.js",
   "directories": {
